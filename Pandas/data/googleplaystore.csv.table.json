@@ -1,0 +1,136 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 51
+    },
+    {
+      "field": "App",
+      "title": "App",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 346
+    },
+    {
+      "field": "Category",
+      "title": "Category",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 166
+    },
+    {
+      "field": "Rating",
+      "title": "Rating",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 96
+    },
+    {
+      "field": "Reviews",
+      "title": "Reviews",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 105
+    },
+    {
+      "field": "Size",
+      "title": "Size",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 80
+    },
+    {
+      "field": "Installs",
+      "title": "Installs",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 98
+    },
+    {
+      "field": "Type",
+      "title": "Type",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 85
+    },
+    {
+      "field": "Price",
+      "title": "Price",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 86
+    },
+    {
+      "field": "Content Rating",
+      "title": "Content Rating",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 149
+    },
+    {
+      "field": "Genres",
+      "title": "Genres",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 128
+    },
+    {
+      "field": "Last Updated",
+      "title": "Last Updated",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 138
+    },
+    {
+      "field": "Current Ver",
+      "title": "Current Ver",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 126
+    },
+    {
+      "field": "Android Ver",
+      "title": "Android Ver",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 130
+    }
+  ],
+  "sort": [
+    {
+      "column": "Rating",
+      "dir": "desc"
+    }
+  ]
+}
